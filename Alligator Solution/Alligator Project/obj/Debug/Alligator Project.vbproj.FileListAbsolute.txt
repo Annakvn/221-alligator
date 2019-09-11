@@ -1,0 +1,13 @@
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Alligator Project.exe.config
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Alligator Project.exe
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Alligator Project.pdb
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Alligator Project.xml
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator Project.vbprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator_Project.MainForm.resources
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator_Project.Resources.resources
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator Project.vbproj.GenerateResource.Cache
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator Project.exe
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator Project.xml
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\obj\Debug\Alligator Project.pdb
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Anna\Desktop\Alligator Solution\Alligator Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
